@@ -1,3 +1,11 @@
+<p align="center">
+  <img src="https://i.scdn.co/image/ab67616d0000b273ff7c2dfd0ed9b2cf6bf9c818" alt="Song jacket of Fancy by Twice" width="500">
+</p>
+
+<div align="center" style="font-weight: bold;">
+<b> Fancy | Twice </b>
+</div>
+
 # DTP Assignment 2
 
 This assignment is all about GitHub. It is divided into two parts.

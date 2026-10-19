@@ -1,0 +1,82 @@
+⣿⣿⣿⣿⡿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡏⠃⠀⠀⢈⣿⣿⣿⣿⣿⣟⣿⣿⣿⣿⣿⡿⣡⠶⠛⢛⣛⣥⣾⡟⣽⣿⣧⠀⢹⠸⣿⣿⣿⡆⠈⠙⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⡇⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠟⠀⣠⣴⣾⣿⣿⣿⣿⣿⠋⠁⠀⠀⠙⠛⠭⠚⣁⣤⣶⣿⣿⣿⡟⢸⡟⣿⣿⣷⢸⠀⣿⣯⣿⣻⣆⠀⠀⣩⣭⣽⣭
+⣿⣿⣿⣿⡇⣿⣿⣿⣿⣿⣿⣿⣿⡟⠁⣰⣿⣿⣿⣿⣿⣿⣿⣿⠇⠀⠀⠀⠀⠀⠀⠀⠙⣿⣿⣿⣿⣿⠟⠀⡼⠁⠹⣿⣿⡄⡇⢻⡙⣟⢷⡻⣦⡸⣿⣿⣦⣼
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⣼⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀⠀⣀⡄⠀⡀⠀⣿⣿⣿⡿⠋⠀⠀⢷⣶⣿⣦⡹⣧⢰⠘⣯⢻⡿⣇⣀⡙⠻⢟⣫⣵
+⣿⣿⣿⡇⣿⣿⣿⣿⣿⣷⣿⣿⣿⢀⣿⣿⡿⢛⡉⠙⠻⡎⢿⣿⠀⠀⠣⢦⣿⣿⣾⡷⠀⣿⠿⠋⠀⠀⠀⠀⠀⠈⠛⠿⣿⣿⢸⡀⢹⡞⢧⠈⣿⣿⣾⣿⢟⡝
+⣿⣿⣿⢣⣿⢿⣿⣿⣏⢿⡟⢿⣿⢸⣿⣿⣳⣿⡿⢆⠀⠘⠀⣿⠀⠀⠀⣾⣿⢿⣯⠀⡈⣀⠀⢀⣤⣄⣠⣤⣤⣤⣤⣤⣸⣿⣼⠀⠈⢷⡉⢧⡻⢟⣿⠏⡞⢰
+⣿⣿⣷⣿⣿⡛⣿⣿⣿⡂⡇⢽⣿⢸⣿⣿⣧⣿⣶⣾⠀⠀⢂⢸⠀⢴⣾⣿⣿⠁⠐⢲⣿⣿⠋⠙⠿⣿⡿⢅⣶⣶⣾⣿⣿⣿⣿⡆⠀⠈⠛⢦⣭⠿⢋⡾⠀⢹
+⣿⣿⢿⣿⣿⣿⣿⣿⣿⡇⣿⢸⣿⡾⣿⣿⣿⣭⡽⠟⢠⠂⠀⠀⣀⡀⠀⠹⡿⡀⣄⠁⠙⠏⣸⣟⡀⠈⢻⣿⣻⣿⡿⣯⣽⡿⣿⡷⠀⠀⠀⠀⠀⢠⣎⠆⠰⢸
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⡁⢹⡼⣿⡗⣿⣿⠿⠇⣰⡞⠁⡀⠀⢘⡿⠁⠀⠀⢘⢜⠝⡦⢔⠄⢋⠿⠁⠀⠀⠻⡏⠀⢡⣾⣿⣿⡿⠁⠀⠀⠀⠀⣰⣫⡏⠀⢠⣾
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⡽⠞⠋⠉⠀⣴⣿⣿⣿⣿⠇⠀⢿⠃⡟⠀⠀⠈⣿⣿⡿⠃⠀⢀⣷⠀⠀⠀⢶⠇⢠⣿⢿⣿⣿⠃⠀⠀⠀⠀⠞⠛⠛⠉⠀⠐⠻
+⣿⣿⣿⣿⣿⢿⡿⠿⠊⠉⠀⠀⠀⠀⠀⠀⡽⢿⣿⣿⣿⠀⠀⠈⠭⠀⠀⠀⠀⣿⡿⠇⠀⢀⠼⠿⡄⠀⠀⣾⣦⡘⠿⠿⢿⡟⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⣿⣿⣿⡿⠋⠁⠀⠀⠀⠀⠀⠀⠀⣀⣤⡄⠀⢸⣿⣿⣿⠄⠀⠀⠀⠀⠀⣠⡾⠋⡔⠀⠀⠀⠀⠀⠀⢀⣤⣤⡟⠿⠦⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠛⠉⠁⠀⠀⠀⠀⠀⠀⠀⠀⠪⠤⢠⢬⡽⠀⠀⣿⣿⣿⣧⠀⠀⠀⠀⣼⣿⡀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⣿⡗⢃⠘⣷⣄⠀⠐⢦⠄⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠴⢃⠀⠀⢸⣿⣿⣿⠀⠀⠀⠀⢀⡽⢷⠀⡴⣤⠀⠀⠀⠀⠀⠠⢿⠟⣷⡾⠂⠉⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠀⠀⠘⠛⢿⣿⠀⠀⠀⠀⢸⠇⠀⠀⠙⡁⠀⠀⠀⠀⠀⠀⠀⠠⠉⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+███████╗ █████╗ ███╗   ██╗ ██████╗██╗   ██╗  ████████╗██╗    ██╗██╗ ██████╗███████╗
+██╔════╝██╔══██╗████╗  ██║██╔════╝╚██╗ ██╔╝  ╚══██╔══╝██║    ██║██║██╔════╝██╔════╝
+█████╗  ███████║██╔██╗ ██║██║      ╚████╔╝█████╗██║   ██║ █╗ ██║██║██║     █████╗  
+██╔══╝  ██╔══██║██║╚██╗██║██║       ╚██╔╝ ╚════╝██║   ██║███╗██║██║██║     ██╔══╝  
+██║     ██║  ██║██║ ╚████║╚██████╗   ██║        ██║   ╚███╔███╔╝██║╚██████╗███████╗
+╚═╝     ╚═╝  ╚═╝╚═╝  ╚═══╝ ╚═════╝   ╚═╝        ╚═╝    ╚══╝╚══╝ ╚═╝ ╚═════╝╚══════╝
+
+The color of the clouds in the sky right now is tropical, yeah
+That red sun looks like your cheeks
+Oh, tell me, I'm the only one, babe
+I fancy you, I fancy you, fancy you (TWICE)
+It's dangerous, it stings, you're like a rose
+It's okay, I'm not scared at all
+Hold on tighter, take my hand
+It's going to be a little dangerous, it's going to be even more dangerous, babe
+
+
+My mood right now melting like sweet chocolate ice cream, so lovely
+The brightest star in the dark universe
+That star, that star, and your big star next to it
+
+Hey there, you I fancy you, I don't want just anyone
+Hey, I love you (love ya)
+Yeah, you I fancy you, it's okay to be happy like a dream
+'Cause I need you (what?)
+
+Fancy you, ooh 누가 먼저 좋아하면 어때?
+Fancy you, ooh 지금 너에게로 갈래
+Fancy, ooh
+
+매일매일 (매일) 난 정말 아무것도 못 하네
+Oh my, Mayday (day) 이러다 큰일 낼 것 같은데
+Bang, bang 머리가 홀린 듯 리이 돼
+어쩌면 좋아? 이게 맞는 건지 몰라 SOS
+
+Swim, swim 너란 바다에 잠수함이 돼
+매일이 birthday 달콤해 너와 나의 fantasy
+Dream, dream 마치 꿈 같아, 볼 꼬집어봐
+요즘 나의 상태 메세진 랄랄라 baby
+
+달콤한 초콜릿 아이스크림처럼
+녹아버리는 지금 내 기분 so lovely
+깜깜한 (hey) 우주 속 가장 반짝이는
+저 별, 저 별, 그 옆에 큰 니 별
+
+거기 너 I fancy you 아무나 원하지 않아
+Hey, I love you (love ya)
+그래, 너 I fancy you 꿈처럼 행복해도 돼
+'Cause I need you (what?)
+
+Fancy you, ooh 누가 먼저 좋아하면 어때?
+Fancy you, ooh 지금 너에게로 갈래
+Fancy, ooh
+
+연기처럼 훅 사라질까
+늘 가득히 담아, 두 눈에 담아
+생각만으로 포근해져
+몰래 뒤에서 안아, 널 놓지 않을래
+
+거기 너 I fancy you (fancy you) 아무나 원하지 않아
+Hey, I love you (love ya)
+그래, 너 I fancy you 꿈처럼 행복해도 돼
+'Cause I need you (what?)
+
+Fancy you, ooh 누가 먼저 좋아하면 어때?
+Fancy you, ooh 지금 너에게로 갈래
+Fancy, ooh
